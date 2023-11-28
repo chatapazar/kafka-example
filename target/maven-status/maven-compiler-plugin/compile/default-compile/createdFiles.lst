@@ -1,0 +1,13 @@
+kafkaExample/Producer.class
+kafkaExample/Stream.class
+kafkaExample/FlinkConsumer.class
+kafkaExample/FlinkProcessFunction.class
+kafkaExample/FlinkProcess.class
+kafkaExample/RunnableProducer.class
+kafkaExample/Consumer.class
+kafkaExample/FlinkIterator.class
+kafkaExample/Runner.class
+kafkaExample/FlinkIteratorMapper.class
+kafkaExample/ProducerConPool.class
+kafkaExample/FlinkMapper.class
+kafkaExample/FlinkFilter.class
